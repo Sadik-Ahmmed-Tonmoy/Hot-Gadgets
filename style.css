@@ -23,12 +23,10 @@
   height: 250px;
   width: 300px;
 }
-.cat2:hover{
+.cat2:hover {
   text-shadow: 20px; text-decoration: none; text-transform: uppercase; background-color: black; color: antiquewhite;
 }
 .cat1{
   flex-direction: column;
   justify-content: center;
 }
-.h-100 img{flex-direction: column;
-  justify-content: center;}
