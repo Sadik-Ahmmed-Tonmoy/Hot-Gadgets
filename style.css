@@ -1,3 +1,6 @@
+.container{
+  margin-bottom: 20px;
+}
 /*Navbar*/
 .navbar img{
   height: 50px;
@@ -10,4 +13,18 @@
   background-color: lightcyan;
   border-radius: 10px;
   padding: 8px;
+  height: auto
 }
+/*2nd sec(smartphone)*/
+.see-all-clr{
+  color: goldenrod;
+}
+.col img{
+  height: 250px;
+  width: 300px;
+}
+.cat1{
+  flex-direction: column;
+  justify-content: center;
+}
+
