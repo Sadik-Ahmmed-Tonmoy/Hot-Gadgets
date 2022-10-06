@@ -1,0 +1,12 @@
+/*Navbar*/
+.navbar img{
+  height: 50px;
+}
+.navbar{
+  border-radius: 10px;
+}
+/*carousel*/
+.carousel{
+  background-color: lightcyan;
+  border-radius: 10px;
+}
