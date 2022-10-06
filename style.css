@@ -30,6 +30,11 @@
   flex-direction: column;
   justify-content: center;
 }
+.footer{
+  color: bisque;
+}
 .footer:hover{color: chocolate;
-
+}
+.footer-bg-clr{
+  background-color: black;
 }
