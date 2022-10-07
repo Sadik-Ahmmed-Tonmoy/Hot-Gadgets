@@ -15,6 +15,9 @@
   padding: 8px;
   height: auto
 }
+.carousel img{
+  height: 365px;
+}
 /*2nd sec(smartphone)*/
 .see-all-clr{
   color: goldenrod;
