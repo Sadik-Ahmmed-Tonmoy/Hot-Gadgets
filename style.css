@@ -26,6 +26,7 @@
 .cat2:hover {
   text-shadow: 20px; text-decoration: none; text-transform: uppercase; background-color: black; color: antiquewhite;
 }
+
 .cat1{
   flex-direction: column;
   justify-content: center;
@@ -47,7 +48,7 @@
   width: auto;
 }
 .brands img{
-  height: 80px;
+  height: 50px;
   width: 100px;
 }
 .card{
