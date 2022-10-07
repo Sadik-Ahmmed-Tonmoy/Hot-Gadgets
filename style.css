@@ -50,6 +50,11 @@
   height: auto;
   width: auto;
 }
+.active img{
+  height: auto;
+  width: auto;
+  border-radius: 10px;
+}
 .brands img{
   height: 50px;
   width: 100px;
