@@ -37,6 +37,8 @@
 .footer{
   color: bisque;
   padding: 15px;
+  height: auto;
+  width: auto;
 }
 .footer:hover{color: chocolate;
 }
@@ -59,6 +61,7 @@
   height: 50px;
   width: 100px;
 }
+
 .card{
   border: none;
   box-shadow: 5px 5px 20px lightgray;
