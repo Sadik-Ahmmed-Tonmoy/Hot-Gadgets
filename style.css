@@ -49,7 +49,7 @@
 /*smartphone page*/
 .brands{
   border: 5px solid gray;
-  height: auto;
+  height: 250px;
   width: auto;
 }
 .bnr-img img{
@@ -69,5 +69,5 @@
 .card img{
   height: auto;
   width: auto;
-  
 }
+
